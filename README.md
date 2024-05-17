@@ -12,7 +12,7 @@ Hello! I'm **Daud Rauf**, a Full Stack Engineer from Gujranwala, Pakistan. With 
 
 ## Skills
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,javascript,typescript,php,react,redux,html,css,tailwind,bootstrap,mysql,postgres,mongodb,sequelize,docker,kafka,figma,git,gitlab,github,postman,slack&perline=10)
+![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,javascript,typescript,php,laravel.livewire,react,redux,html,css,tailwind,bootstrap,mysql,postgres,mongodb,sequelize,docker,kafka,grpc,jest,mocha,figma,git,gitlab,github,postman,slack&perline=10)
 
 
 ## Education
