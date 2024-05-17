@@ -6,8 +6,9 @@ Hello! I'm **Daud Rauf**, a Full Stack Engineer from Gujranwala, Pakistan. With 
 
 📫 **Contact Information:**
 
+- **Portfolio:** [drb372](https://imdaudbutt.com)
 - **Email:** [daudbutt400@gmail.com](mailto:daudbutt400@gmail.com)
-- **LinkedIn:** [imdaudbut](https://linkedin.com/in/imdaudbut)
+- **LinkedIn:** [imdaudbut](https://linkedin.com/in/imdaudbutt)
 - **GitHub:** [drb372](https://github.com/drb372)
 
 ## Skills
