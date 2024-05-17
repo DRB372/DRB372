@@ -12,18 +12,8 @@ Hello! I'm **Daud Rauf**, a Full Stack Engineer from Gujranwala, Pakistan. With 
 
 ## Skills
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,php,javascript,typescript,react,redux,html,css,tailwind,bootstrap,mysql,postgres,mongodb,sequelize,docker,kafka,figma,git,gitlab,github,postman,slack&perline=10)
+![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,javascript,typescript,php,react,redux,html,css,tailwind,bootstrap,mysql,postgres,mongodb,sequelize,docker,kafka,figma,git,gitlab,github,postman,slack&perline=10)
 
-
-### Tools & Technologies
-- **APIs:** RESTful APIs, Web Sockets, API Documentation (Swagger, ![Postman](https://skillicons.dev/icons?i=postman))
-- **Microservices:** ![Docker](https://skillicons.dev/icons?i=docker), Kafka, Ambassador, GRPC
-- **Testing:** Jest, Mocha
-- **Analytics:** Redshift, Cube.js
-- **Design:** ![Figma](https://skillicons.dev/icons?i=figma)
-- **Version Control:** ![Git](https://skillicons.dev/icons?i=git), ![GitLab](https://skillicons.dev/icons?i=gitlab), ![GitHub](https://skillicons.dev/icons?i=github), BitBucket
-- **Project Management:** Jira, Trello, Fibery, ClickUp
-- **Communication:** ![Slack](https://skillicons.dev/icons?i=slack), Discord
 
 ## Education
 
