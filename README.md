@@ -12,11 +12,8 @@ Hello! I'm **Daud Rauf**, a Full Stack Engineer from Gujranwala, Pakistan. With 
 
 ## Skills
 
-### Programming Languages & Frameworks
-- **Backend:** ![Node.js](https://skillicons.dev/icons?i=nodejs) (Express & Nest), ![PHP](https://skillicons.dev/icons?i=php) (Laravel & LiveWire), ![JavaScript](https://skillicons.dev/icons?i=javascript), ![TypeScript](https://skillicons.dev/icons?i=typescript)
-- **Frontend:** ![React](https://skillicons.dev/icons?i=react), ![Redux](https://skillicons.dev/icons?i=redux), ![HTML](https://skillicons.dev/icons?i=html), ![CSS](https://skillicons.dev/icons?i=css), ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind), ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-- **Databases:** ![SQL](https://skillicons.dev/icons?i=mysql), ![PostgreSQL](https://skillicons.dev/icons?i=postgres), ![MongoDB](https://skillicons.dev/icons?i=mongodb)
-- **ORMs:** Objection with Knex, ![Sequelize](https://skillicons.dev/icons?i=sequelize), TypeORM, Prisma, Mongoose
+![My Skills](https://skillicons.dev/icons?i=nodejs,php,javascript,typescript,react,redux,html,css,tailwind,bootstrap,mysql,postgres,mongodb,sequelize,docker,kafka,figma,git,gitlab,github,postman,slack&perline=10)
+
 
 ### Tools & Technologies
 - **APIs:** RESTful APIs, Web Sockets, API Documentation (Swagger, ![Postman](https://skillicons.dev/icons?i=postman))
